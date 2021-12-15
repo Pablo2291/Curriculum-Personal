@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "name": "curriculum-personal",
+  "description": "",
+  "version": "1.0.0",
+  "main": "peticiones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablo2291/Curriculum-personal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablo2291/Curriculum-personal/issues"
+  },
+  "homepage": "https://github.com/pablo2291/Curriculum-personal#readme"
+}
